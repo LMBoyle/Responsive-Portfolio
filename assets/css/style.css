@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    font-size:3vw
+    font-size:2.5vw;
 }
 
 h1, h2, h3 { 
@@ -109,7 +109,7 @@ nav a:first-child {
     margin-bottom: 100px;
     background-color: #ffffff;
     border: 1px solid #dddddd;
-    padding: 20px;
+    padding: 30px;
     padding-bottom: 30px;
     overflow: auto;
 }
@@ -126,72 +126,44 @@ nav a:first-child {
 }
 
 /* Portfolio */
-.left {
-    /* background-color: red; */
-}
-
-.right {
-    /* background-color:blue; */
-}
-
-.left, .right {
-    float: left;
-    margin: 40px 35px 20px 0;
+.work {
     position: relative;
-    height: 723px;
-    width: 268px;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
 }
 
-.left .image, .right .image {
-    float: none;
-    padding: 0;
-    height: 201px;
-    width: 268px;
+.work:nth-child(even) {
+    margin-right: 40px;
 }
 
-.left img, .right img {
-    opacity: .8;
-    
-}
-
-.left h3, .right h3 {
-    background-color: #4aaaa5;
-    height: 55px;
-    font-size: 25px;
-    font-weight: lighter;
+.work img {
     width: 100%;
-    color: #fff;
+    border: 0 none;
+    opacity: 0.8;
+}
+
+.work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
     text-align: center;
-    padding-top: 15px;
-    position: absolute;
-    bottom: 15px;
+    background: #4aaaa5;
+    border-bottom: 0;
 }
 
-/*  Projects Left */
-.hangman {
-    position: absolute;
-    top: 0;
-}
-
-.triva {
-    position: absolute;
-    top: 251px;
-}
-
-.rock {
-    position: absolute;
-    top: 502px;
-}
-
-/*  Projects Right */
-.rpg {
-    position: absolute;
-    top: 0;
-}
-
-.widget {
-    position: absolute;
-    top: 251px;
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
 }
 
 

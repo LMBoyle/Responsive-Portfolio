@@ -72,9 +72,10 @@
     .container {
         width:90%;
         background: orange;
+        max-width: 960px;
     }
     #name {
         width: 26%;
-        padding: 2vw;
+        padding: 1.8vw;
     }
 }
