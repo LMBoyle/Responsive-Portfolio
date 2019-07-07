@@ -11,9 +11,11 @@
     h2 {
         text-align: center;
     }
-    .image {
-        display: block;
-        margin: 0 auto;
+    .work {
+        width: 100%;
+    }
+    .auth-image {
+        width: 100%;
     }
 
 } 
@@ -31,10 +33,14 @@
     h2 {
         text-align: center;
     }
-    .image {
-        display: block;
-        margin: 0 auto;
+    .work {
+        width: 100%;
     }
+    .auth-image {
+        width: 100%;
+    }
+
+
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -50,8 +56,10 @@
     h2 {
         text-align: left;
     }
-    .image {
+    .work {
+        position: relative;
         float: left;
+        margin: 20px 0 25px;
     }
 } 
 
@@ -60,10 +68,16 @@
     .container {
         width:90%;
         background: green;
+        max-width: 960px;
     }
     #name {
         width: 26%;
         padding: 2.5vw;
+    }
+    .work {
+        position: relative;
+        float: left;
+        margin: 20px 0 25px;
     }
 } 
 
@@ -77,5 +91,10 @@
     #name {
         width: 26%;
         padding: 1.8vw;
+    }
+    .work {
+        position: relative;
+        float: left;
+        margin: 20px 0 25px;
     }
 }
