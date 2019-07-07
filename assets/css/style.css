@@ -17,6 +17,10 @@ body {
     color: #777777;
 }
 
+h1 {
+    font-size:3vw
+}
+
 h1, h2, h3 { 
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -38,7 +42,7 @@ p {
 
 /*  Main Container */
 .container {
-    width: 960px;
+    /* width: 960px; */
     margin: 0 auto;
     min-height: 100%;
     clear: both;
@@ -66,11 +70,11 @@ p {
 #name {
     background-color: #4aaaa5;
     color: #fff;
-    width: 250px;
+    /* width: 250px; */
     height: 80px;
     float: left;
     text-align: center;
-    padding: 25px;
+    /* padding: 25px; */
     margin-top: 0;
     border-bottom: 2px solid #cccccc;
 }

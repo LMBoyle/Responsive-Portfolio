@@ -1,7 +1,12 @@
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 600px) {
     .container {
-    
+        width: 100%;
+        background: red;
+    }
+    #name {
+        width: 26%;
+        padding: 4vw;
     }
 
 } 
@@ -9,27 +14,47 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media (min-width: 600px) {
     .container {
-    
+        width: 100%;
+        background: blue;
+    }
+    #name {
+        width: 26%;
+        padding: 3.5vw;
     }
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media (min-width: 768px) {
     .container {
-    
+        width: 90%;
+        background: yellow;
+    }
+    #name {
+        width: 26%;
+        padding: 3vw;
     }
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media (min-width: 992px) {
     .container {
-    
+        width:90%;
+        background: green;
+    }
+    #name {
+        width: 26%;
+        padding: 2.5vw;
     }
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .container {
-    
+        width:90%;
+        background: orange;
+    }
+    #name {
+        width: 26%;
+        padding: 2vw;
     }
 }
