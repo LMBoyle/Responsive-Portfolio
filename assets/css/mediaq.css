@@ -8,6 +8,13 @@
         width: 26%;
         padding: 4vw;
     }
+    h2 {
+        text-align: center;
+    }
+    .image {
+        display: block;
+        margin: 0 auto;
+    }
 
 } 
 
@@ -21,6 +28,13 @@
         width: 26%;
         padding: 3.5vw;
     }
+    h2 {
+        text-align: center;
+    }
+    .image {
+        display: block;
+        margin: 0 auto;
+    }
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -32,6 +46,12 @@
     #name {
         width: 26%;
         padding: 3vw;
+    }
+    h2 {
+        text-align: left;
+    }
+    .image {
+        float: left;
     }
 } 
 

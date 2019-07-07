@@ -103,6 +103,7 @@ nav a:first-child {
     border-left: none;
 }
 
+
 /* Main Content */
 .main-content {
     margin-bottom: 100px;
@@ -118,7 +119,7 @@ nav a:first-child {
 }
 
 .image {
-    float: left;
+    /* float: left; */
     padding-top: 20px;
     padding-right: 20px;
     height: 200px;
