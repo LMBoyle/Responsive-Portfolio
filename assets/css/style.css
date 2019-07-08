@@ -17,10 +17,6 @@ body {
     color: #777777;
 }
 
-h1 {
-    font-size:2.5vw;
-}
-
 h1, h2, h3 { 
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -74,7 +70,7 @@ p {
     height: 80px;
     float: left;
     text-align: center;
-    /* padding: 25px; */
+    padding: 25px;
     margin-top: 0;
     border-bottom: 2px solid #cccccc;
 }
