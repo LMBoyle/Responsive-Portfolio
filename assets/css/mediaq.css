@@ -10,7 +10,10 @@
     }
     nav {
         width: 100%;
-        padding: 10px 30%;
+        padding: 10px 0 0 13%;
+    }
+    nav a {
+        width: 30%;
     }
     #navigation {
         width: 100%;
@@ -39,7 +42,10 @@
     }
     nav {
         width: 100%;
-        padding: 10px 30%;
+        padding: 10px 0 0 30%;
+    }
+    nav a {
+        width: 30%;
     }
     #navigation {
         width: 100%;
