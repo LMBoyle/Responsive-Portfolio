@@ -87,9 +87,7 @@
         text-align: left;
     }
     .work {
-        position: relative;
-        float: left;
-        margin: 20px 0 25px;
+        width: 274px;
     }
     .image {
         float: left;
@@ -108,11 +106,7 @@
     #name {
         width: 250px;
     }
-    .work {
-        position: relative;
-        float: left;
-        margin: 20px 0 25px;
-    }
+
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -125,9 +119,5 @@
     #name {
         width: 250px;
     }
-    .work {
-        position: relative;
-        float: left;
-        margin: 20px 0 25px;
-    }
+
 }
