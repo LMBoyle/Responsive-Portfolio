@@ -8,6 +8,9 @@ Remade portfolio from [previous homework](https://github.com/LMBoyle/Basic-Portf
 ## Demo
 ![Demo Gif](assets/images/demoRes.gif)
 
+## Future Development/Improvements
+- [ ] Better Mobile Responsiveness
+
 
 ## Links
 [Deployed Link](https://lmboyle.github.io/Responsive-Portfolio/)
