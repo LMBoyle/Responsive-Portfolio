@@ -1,21 +1,16 @@
-## Responsiveness
-Remade portfolio from [previous homework](https://github.com/LMBoyle/Basic-Portfolio) and added media queries to make responsive on different screen sizes
+## [Responsiveness Portfolio](https://lmboyle.github.io/responsivePortfolio/)
 
-## What It Teaches
-Learning how to use custom media queries using CSS
+Remade [basic portfolio](https://github.com/LMBoyle/basicPortfolio) and added media queries to make responsive on different screen sizes
 
-## Languages/Technologies 
+## Built With...
 * HTML
 * CSS
 
 ## Demo
+
 ![Demo Gif](assets/images/demoRes.gif)
 
 ## Future Development/Improvements
 - [ ] Better Mobile Responsiveness
 
-
-## Links
-[Deployed Link](https://lmboyle.github.io/Responsive-Portfolio/)
-
-[Portfolio](https://lmboyle.github.io/)
+&copy; 2019 [Luke Boyle](https://lmboyle.github.io/)
